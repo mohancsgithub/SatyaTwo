@@ -15,6 +15,6 @@ namespace WebApplication1.Models
         public string FatherName {get; set;}
         
         //added mother name
-        public string Mothername {get; set;}
+        public string MothernameInEng {get; set;}
     }
 }
