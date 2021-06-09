@@ -14,7 +14,7 @@ namespace WebApplication1.Models
         public string Location { get; set; }
         public string FatherName {get; set;}
         
-        //added mother name
+        //added mother name by user
         public string MothernameInEng {get; set;}
     }
 }
