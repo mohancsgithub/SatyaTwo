@@ -20,5 +20,11 @@ namespace WebApplication1.Models
         //added by dev 1
         public string BrothernameInEng {get; set;}
         public string countryname {get; set;}
+        
+        //added in main branch
+        public string statename {get; set;}
+        
+        //company name
+        public string CompName {get;set;}
     }
 }
