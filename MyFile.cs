@@ -24,6 +24,7 @@ namespace WebApplication1.Models
         //added in main branch
         public string statename {get; set;}
         
+        //company name
         public string CompName {get;set;}
     }
 }
