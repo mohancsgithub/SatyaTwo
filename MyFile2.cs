@@ -13,5 +13,7 @@ namespace WebApplication1.Models
         public string DOB { get; set; }    
         public string Location { get; set; }
         public string FatherName {get; set;}
+        
+        puvlic string NativeID {get;set;}
     }
 }
