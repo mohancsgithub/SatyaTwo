@@ -15,5 +15,7 @@ namespace WebApplication1.Models
         public string FatherName {get; set;}
         
         public string NativeID {get;set;}
+        
+        public string SatyaDB {get;set;}
     }
 }
